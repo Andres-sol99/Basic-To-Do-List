@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "task": "Take out Trash",
+        "complete": true
+    },
+    {
+        "id": 2,
+        "task": "Do laundry",
+        "complete": true
+    },
+    {
+        "id": 3,
+        "task": "Pick up kids",
+        "complete": false
+    },
+    {
+        "id": 4,
+        "task": "Feed cat and dogs",
+        "complete": true
+    },
+    {
+        "id": 5,
+        "task": "Check Emails",
+        "complete": false
+    }
+]
